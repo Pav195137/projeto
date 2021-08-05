@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+/* TÍTULO DO SITE */
+h1 {
+    color: #ff0000;
+}
+
+/* SUBTÍTULO DO SITE */
+h2 {
+    color: white;
+}
+
+/*  */
+img {
+    width: 400px;
+}
